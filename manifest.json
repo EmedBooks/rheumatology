@@ -1,6 +1,6 @@
 {
-  "name": "rheumatology",
-  "short_name": "rheumatology",
+  "name": "Rheumatology MasterMinds",
+  "short_name": "Rheumatology MasterMinds",
   "start_url": "./", 
   "scope": ".",
   "display": "standalone",
